@@ -1,0 +1,40 @@
+{
+  "widgets": [
+    {
+      "id": 2,
+      "name": "Widget B",
+      "description": "Medium, Blue Widget",
+      "color": "blue",
+      "size": "medium",
+      "price": 5,
+      "quantity": 50
+    },
+    {
+      "id": 3,
+      "name": "Widget C",
+      "description": "Large, Yellow Widget",
+      "color": "yellow",
+      "size": "large",
+      "price": 15,
+      "quantity": 75
+    },
+    {
+      "id": 4,
+      "name": "Widget D",
+      "description": "Medium, Red Widget",
+      "color": "red",
+      "size": "medium",
+      "price": 20,
+      "quantity": 20
+    },
+    {
+      "name": "boston qualifier",
+      "description": "ddd",
+      "color": "",
+      "size": "",
+      "price": 0,
+      "quantity": 1,
+      "id": 5
+    }
+  ]
+}
